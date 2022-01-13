@@ -1,0 +1,15 @@
+C:\Users\tyccr\Documents\Clock Angle\obj\Debug\net6.0\Clock Angle.csproj.AssemblyReference.cache
+C:\Users\tyccr\Documents\Clock Angle\obj\Debug\net6.0\Clock Angle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyccr\Documents\Clock Angle\obj\Debug\net6.0\Clock Angle.AssemblyInfoInputs.cache
+C:\Users\tyccr\Documents\Clock Angle\obj\Debug\net6.0\Clock Angle.AssemblyInfo.cs
+C:\Users\tyccr\Documents\Clock Angle\obj\Debug\net6.0\Clock Angle.csproj.CoreCompileInputs.cache
+C:\Users\tyccr\Documents\Clock Angle\bin\Debug\net6.0\Clock Angle.exe
+C:\Users\tyccr\Documents\Clock Angle\bin\Debug\net6.0\Clock Angle.deps.json
+C:\Users\tyccr\Documents\Clock Angle\bin\Debug\net6.0\Clock Angle.runtimeconfig.json
+C:\Users\tyccr\Documents\Clock Angle\bin\Debug\net6.0\Clock Angle.dll
+C:\Users\tyccr\Documents\Clock Angle\bin\Debug\net6.0\ref\Clock Angle.dll
+C:\Users\tyccr\Documents\Clock Angle\bin\Debug\net6.0\Clock Angle.pdb
+C:\Users\tyccr\Documents\Clock Angle\obj\Debug\net6.0\Clock Angle.dll
+C:\Users\tyccr\Documents\Clock Angle\obj\Debug\net6.0\ref\Clock Angle.dll
+C:\Users\tyccr\Documents\Clock Angle\obj\Debug\net6.0\Clock Angle.pdb
+C:\Users\tyccr\Documents\Clock Angle\obj\Debug\net6.0\Clock Angle.genruntimeconfig.cache
