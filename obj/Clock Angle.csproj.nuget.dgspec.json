@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tyccr\\Documents\\Clock Angle\\Clock Angle.csproj": {}
+    "C:\\Users\\tyccr\\Documents\\Clock Angle\\Clock-Angle-Problem\\Clock Angle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tyccr\\Documents\\Clock Angle\\Clock Angle.csproj": {
+    "C:\\Users\\tyccr\\Documents\\Clock Angle\\Clock-Angle-Problem\\Clock Angle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tyccr\\Documents\\Clock Angle\\Clock Angle.csproj",
+        "projectUniqueName": "C:\\Users\\tyccr\\Documents\\Clock Angle\\Clock-Angle-Problem\\Clock Angle.csproj",
         "projectName": "Clock Angle",
-        "projectPath": "C:\\Users\\tyccr\\Documents\\Clock Angle\\Clock Angle.csproj",
+        "projectPath": "C:\\Users\\tyccr\\Documents\\Clock Angle\\Clock-Angle-Problem\\Clock Angle.csproj",
         "packagesPath": "C:\\Users\\tyccr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tyccr\\Documents\\Clock Angle\\obj\\",
+        "outputPath": "C:\\Users\\tyccr\\Documents\\Clock Angle\\Clock-Angle-Problem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tyccr\\AppData\\Roaming\\NuGet\\NuGet.Config"
